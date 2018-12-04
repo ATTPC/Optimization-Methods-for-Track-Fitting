@@ -30,6 +30,7 @@ The code is written in Python 3.6.
 
   - Contains the code used to analyze different real and simulated proton events
   - Contains the plots of track fitting using different global and local optimization methods
+  - Contains the Monte-Carlo (MC) Algorithm written entirely in Python, and MC fitting of the original and modified objective functions
 - **proton-classification**
 
   - Contains codes for using Keras model to classify proton events
